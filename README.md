@@ -1,5 +1,8 @@
 # Point-of-Sale-System-in-PHP-Laravel-with-Source-Code
+
 A fully functional project based on a Point of Sale (POS) System which uses PHP Language with Laravel Web Framework. 
+
+![image](https://github.com/takeshi05/Point-of-Sale-System-in-PHP-Laravel-with-Source-Code/assets/45628093/90c57cde-3ac5-4000-ab3d-3d8f03c5a1dc)
 
 About Point of Sale POS System PHP Project
 In particular, this POS project in PHP Laravel focuses mainly on keeping track of overall transaction records. To be more precise, the system helps to keep track of all the products along with their sales and so on(codeastro.com). Also, the system contains all the customer management side of things too. In addition, the system allows for managing total orders. Evidently, this project contains an admin panel only. In an overview of this web application, this project utilizes all the necessary aspects and outlines the features of the POS system. In fact, the system UI has some similarities with the other available POS machines. Besides, this POS system project is focused on a small target with limited but essential features whereas the market ones are targeted for a wide audience and payment integrations.
